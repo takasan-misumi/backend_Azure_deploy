@@ -1,0 +1,2 @@
+# backend_Azure_deploy
+バックエンドデプロイ用ファイル
